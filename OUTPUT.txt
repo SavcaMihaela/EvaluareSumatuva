@@ -1,0 +1,7 @@
+1	Andronic	Alexandru	9.28
+2	Antonescu	Grigore	        9.05
+3	Turtureanu	Andreea    	8.17
+4	Goncearov	Cleopatra	8.59
+5	Burduja	       Mariana         	9.18
+
+ 
